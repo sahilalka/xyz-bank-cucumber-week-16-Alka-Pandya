@@ -1,0 +1,5 @@
+com\bank\Hooks.class
+com\bank\runner\RegressionTestRunner.class
+com\bank\runner\SanityTestRunner.class
+com\bank\runner\SmokeTestRunner.class
+com\bank\steps\BankSteps.class
